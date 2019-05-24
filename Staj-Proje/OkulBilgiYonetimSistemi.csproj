@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3339731C-2350-45DD-AC63-B328160C4C57}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Staj_Proje</RootNamespace>
+    <AssemblyName>Staj-Proje</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciGiris.Designer.cs">
+      <DependentUpon>OgrenciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ogrenciİslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ogrenciİslem.Designer.cs">
+      <DependentUpon>Ogrenciİslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgretmenGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgretmenGiris.Designer.cs">
+      <DependentUpon>OgretmenGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ogretmenİslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ogretmenİslem.Designer.cs">
+      <DependentUpon>Ogretmenİslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="YoneticiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiGiris.Designer.cs">
+      <DependentUpon>YoneticiGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yoneticiİslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yoneticiİslem.Designer.cs">
+      <DependentUpon>Yoneticiİslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_Proje_StajDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_Proje_StajDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_Proje_StajDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_Proje_StajDataSet1.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciGiris.resx">
+      <DependentUpon>OgrenciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ogrenciİslem.resx">
+      <DependentUpon>Ogrenciİslem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgretmenGiris.resx">
+      <DependentUpon>OgretmenGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ogretmenİslem.resx">
+      <DependentUpon>Ogretmenİslem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="YoneticiGiris.resx">
+      <DependentUpon>YoneticiGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yoneticiİslem.resx">
+      <DependentUpon>Yoneticiİslem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="_Proje_StajDataSet.xsc">
+      <DependentUpon>_Proje_StajDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_Proje_StajDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_Proje_StajDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_Proje_StajDataSet.xss">
+      <DependentUpon>_Proje_StajDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_Proje_StajDataSet1.xsc">
+      <DependentUpon>_Proje_StajDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_Proje_StajDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_Proje_StajDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_Proje_StajDataSet1.xss">
+      <DependentUpon>_Proje_StajDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Giris.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ogretmen_giris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ogrenci_giris.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

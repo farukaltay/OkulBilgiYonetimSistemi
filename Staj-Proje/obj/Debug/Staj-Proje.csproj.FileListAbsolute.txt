@@ -1,0 +1,30 @@
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\bin\Debug\Staj-Proje.exe.config
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\bin\Debug\Staj-Proje.exe
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\bin\Debug\Staj-Proje.pdb
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj-Proje.csprojResolveAssemblyReference.cache
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.ogrenci.resources
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Properties.Resources.resources
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj-Proje.csproj.GenerateResource.Cache
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj-Proje.exe
+c:\users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj-Proje.pdb
+C:\Users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Giris.resources
+C:\Users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Ogretmenİslem.resources
+C:\Users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.OgretmenGiris.resources
+C:\Users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Ogrenciİslem.resources
+C:\Users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.YoneticiGiris.resources
+C:\Users\1nziva\documents\visual studio 2013\Projects\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Yoneticiİslem.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\bin\Debug\Staj-Proje.exe.config
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\bin\Debug\Staj-Proje.exe
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\bin\Debug\Staj-Proje.pdb
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj-Proje.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Giris.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.ogrenci.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Ogrenciİslem.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.OgretmenGiris.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Ogretmenİslem.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Properties.Resources.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.YoneticiGiris.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj_Proje.Yoneticiİslem.resources
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj-Proje.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj-Proje.exe
+C:\Users\Faruk\Desktop\Projeler\C#--SQL\Staj-Proje\Staj-Proje\obj\Debug\Staj-Proje.pdb
